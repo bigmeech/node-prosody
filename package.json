@@ -2,5 +2,6 @@
   "version": "0.0.1",
   "name": "node-prosody",
   "author": "wltsmrz",
-  "main": "index.js"
+  "main": "index.js",
+  "private": true
 }
